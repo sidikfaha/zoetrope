@@ -1,0 +1,17 @@
+{
+  "displayName": "Zoetrope",
+  "shortDescription": "KI-Motion-Design-Studio: Launch-Reels & Social Shorts mit menschlicher KI-Stimme",
+  "longDescription": "KI-Motion-Design-Videostudio: Verwandle ein Produkt oder eine Idee in ein poliertes Launch-Reel oder vertikales Social-Short — codegesteuerte Animation (Remotion), natürliches KI-Voiceover, wortgenau synchronisierte Untertitel, Sounddesign und plattformgerechte Exporte.",
+  "developerName": "sidikfaha",
+  "tryPrompts": [
+    "Erstelle ein 20-Sekunden-Launch-Reel für meine App, dunkles Theme, vertikal",
+    "Mach einen faceless TikTok-Short darüber, wie Kaffee entsteht",
+    "Füge meinem Launch-Video ein natürliches Voiceover und TikTok-Untertitel hinzu"
+  ],
+  "skillOverrides": {
+    "zoetrope": {
+      "displayName": "Zoetrope",
+      "description": "KI-Motion-Design-Studio: Launch-Reels, Social Shorts, natürliches Voiceover, synchronisierte Untertitel und Sounddesign"
+    }
+  }
+}

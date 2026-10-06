@@ -1,0 +1,17 @@
+{
+  "displayName": "Zoetrope",
+  "shortDescription": "AIモーションデザイン動画スタジオ：人間らしいナレーション付きのローンチリール＆縦型ショート",
+  "longDescription": "AIモーションデザイン動画スタジオ：製品やアイデアを洗練されたローンチリールや縦型ショート動画に変換。コード駆動アニメーション（Remotion）、自然なAIナレーション、単語同期字幕、サウンドデザイン、各プラットフォーム向け書き出し。",
+  "developerName": "sidikfaha",
+  "tryPrompts": [
+    "私のアプリの20秒ローンチリールを作って。ダークテーマ、縦型で",
+    "コーヒーができるまでの顔出しなしTikTokショートを作って",
+    "ローンチ動画に自然なナレーションとTikTok風字幕を付けて"
+  ],
+  "skillOverrides": {
+    "zoetrope": {
+      "displayName": "Zoetrope",
+      "description": "AIモーションデザイン動画スタジオ：ローンチリール、ショート動画、自然なナレーション、同期字幕、サウンドデザイン"
+    }
+  }
+}

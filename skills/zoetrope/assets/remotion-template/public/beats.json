@@ -1,0 +1,45 @@
+{
+  "title": "Acme v2",
+  "productName": "Acme v2",
+  "cta": "Try it free",
+  "url": "acme.dev",
+  "transitionFrames": 12,
+  "scenes": [
+    {
+      "id": "hook",
+      "startSec": 0,
+      "line": "Your deploys take",
+      "line2": "40 minutes?",
+      "emphasis": ["40", "minutes?"],
+      "sub": "Yeah... forty.",
+      "subDelaySec": 1.91,
+      "ghost": "40 MINUTES"
+    },
+    { "id": "reveal", "startSec": 2.55 },
+    {
+      "id": "feature",
+      "startSec": 4.19,
+      "keyword": "SECONDS",
+      "title": "Builds in seconds",
+      "sub": "Parallel pipelines do the waiting for you.",
+      "emoji": "⚡"
+    },
+    {
+      "id": "feature",
+      "startSec": 8.6,
+      "keyword": "1-CLICK",
+      "title": "Rollbacks in one click",
+      "sub": "Every deploy is reversible. Instantly.",
+      "emoji": "↩️"
+    },
+    {
+      "id": "feature",
+      "startSec": 12.35,
+      "keyword": "ZERO CONFIG",
+      "title": "Zero config",
+      "sub": "Connect your repo. That's the setup.",
+      "emoji": "✨"
+    },
+    { "id": "cta", "startSec": 16.55 }
+  ]
+}

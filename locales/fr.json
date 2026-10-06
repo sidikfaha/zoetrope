@@ -1,0 +1,17 @@
+{
+  "displayName": "Zoetrope",
+  "shortDescription": "Studio vidéo motion design IA : reels de lancement et shorts verticaux avec voix off ultra naturelle",
+  "longDescription": "Studio vidéo motion design IA : transformez un produit ou une idée en reel de lancement ou short vertical soigné — animation pilotée par code (Remotion), voix off IA très naturelle, sous-titres synchronisés mot à mot, sound design et exports parfaits pour chaque plateforme.",
+  "developerName": "sidikfaha",
+  "tryPrompts": [
+    "Crée un reel de lancement de 20 s pour mon app, thème sombre, vertical",
+    "Fais un short TikTok faceless sur la fabrication du café",
+    "Ajoute une voix off naturelle et des sous-titres style TikTok à ma vidéo de lancement"
+  ],
+  "skillOverrides": {
+    "zoetrope": {
+      "displayName": "Zoetrope",
+      "description": "Studio vidéo motion design IA : reels de lancement, shorts, voix off naturelle, sous-titres synchronisés et sound design"
+    }
+  }
+}

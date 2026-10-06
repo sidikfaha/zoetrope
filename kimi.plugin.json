@@ -1,0 +1,45 @@
+{
+  "$schema": "https://catalog.msh.team/misc/kimi.plugin.schema.json",
+  "name": "zoetrope",
+  "version": "0.2.0",
+  "description": "AI motion-design video studio: turn a product or idea into a polished launch reel or vertical social short with code-driven animation (Remotion), human-like AI voiceover, word-synced captions, sound design, and platform-perfect exports.",
+  "keywords": [
+    "video",
+    "motion-design",
+    "remotion",
+    "launch-video",
+    "social-media",
+    "tiktok",
+    "reels",
+    "shorts",
+    "voiceover",
+    "captions"
+  ],
+  "author": "sidikfaha",
+  "license": "MIT",
+  "skillInstructions": "",
+  "interface": {
+    "displayName": "Zoetrope",
+    "shortDescription": "AI motion-design video studio: launch reels & social shorts with human-like voiceover",
+    "longDescription": "AI motion-design video studio: turn a product or idea into a polished launch reel or vertical social short with code-driven animation (Remotion), human-like AI voiceover, word-synced captions, sound design, and platform-perfect exports.",
+    "developerName": "sidikfaha",
+    "websiteURL": "https://github.com/sidikfaha/zoetrope",
+    "iconUrl": "",
+    "category": "PRODUCTIVITY",
+    "defaultLocale": "en-US",
+    "locales": "./locales/",
+    "tryPrompts": [
+      "Make a 20s product launch reel for my app, dark theme, vertical",
+      "Create a faceless TikTok short about how coffee is made",
+      "Add a human-like voiceover and TikTok-style captions to my launch video"
+    ],
+    "skillOverrides": {
+      "zoetrope": {
+        "displayName": "Zoetrope",
+        "description": "AI motion-design video studio: launch reels & social shorts with human-like voiceover, word-synced captions and sound design"
+      }
+    }
+  },
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

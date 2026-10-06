@@ -1,0 +1,8 @@
+{
+  "name": "zoetrope",
+  "version": "0.2.0",
+  "description": "AI motion-design video studio: turn a product or idea into a polished launch reel or vertical social short with code-driven animation (Remotion), human-like AI voiceover, word-synced captions, sound design, and platform-perfect exports.",
+  "author": { "name": "Local developer" },
+  "license": "MIT",
+  "keywords": ["video", "motion-design", "remotion", "launch-video", "tiktok", "reels", "shorts", "voiceover", "captions"]
+}

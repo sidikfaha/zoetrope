@@ -1,0 +1,17 @@
+{
+  "displayName": "Zoetrope",
+  "shortDescription": "Estudio de video motion design con IA: reels de lanzamiento y shorts verticales con voz humana",
+  "longDescription": "Estudio de video motion design con IA: convierte un producto o idea en un reel de lanzamiento o short vertical pulido — animación por código (Remotion), voz IA muy natural, subtítulos sincronizados palabra a palabra, diseño sonoro y exportaciones perfectas por plataforma.",
+  "developerName": "sidikfaha",
+  "tryPrompts": [
+    "Haz un reel de lanzamiento de 20 s para mi app, tema oscuro, vertical",
+    "Crea un short de TikTok sin rostro sobre cómo se hace el café",
+    "Añade voz en off natural y subtítulos estilo TikTok a mi video de lanzamiento"
+  ],
+  "skillOverrides": {
+    "zoetrope": {
+      "displayName": "Zoetrope",
+      "description": "Estudio de video motion design con IA: reels de lanzamiento, shorts, voz natural, subtítulos sincronizados y diseño sonoro"
+    }
+  }
+}

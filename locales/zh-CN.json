@@ -1,0 +1,17 @@
+{
+  "displayName": "Zoetrope",
+  "shortDescription": "AI 动效视频工作室：用代码做发布短片与社交媒体竖屏视频",
+  "longDescription": "AI 动效视频工作室：把一个产品或想法变成精致的发布短片或竖屏社交短视频——代码驱动动画（Remotion）、拟人 AI 配音、逐词同步字幕、音效设计，并按各平台规格导出成片。",
+  "developerName": "sidikfaha",
+  "tryPrompts": [
+    "帮我做一个 20 秒的深色主题竖屏产品发布视频",
+    "做一个关于咖啡制作过程的 TikTok 竖屏短视频",
+    "给我的发布视频加上拟人配音和 TikTok 风格逐词字幕"
+  ],
+  "skillOverrides": {
+    "zoetrope": {
+      "displayName": "Zoetrope",
+      "description": "AI 动效视频工作室：发布短片、社交短视频、拟人配音、逐词字幕与音效设计"
+    }
+  }
+}
